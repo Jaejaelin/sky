@@ -32,7 +32,7 @@ body{
   overflow: hidden;
 }
 
-.fullscreen-vid-wrap vidio{
+.fullscreen-vid-wrap video{
   min-width: 100%;
   min-height: 100%;
 }
