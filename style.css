@@ -58,11 +58,9 @@ body{
   color: #F6F6F6;
   display: block;
   font-family: 'Changa', sans-serif;
+  line-height: 1.2em;
 }
 
-.content p2{
-  margin-top:0;
-}
 
 .btn-wrap {
   margin-top: 100px; 
