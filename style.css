@@ -54,7 +54,7 @@ body{
 
 .content p{
   font-size: 1.5rem;
-  margin-top: -25px;
+  margin-top: -20px;
   color: #F6F6F6;
   display: block;
   font-family: 'Changa', sans-serif;
@@ -81,6 +81,6 @@ a {
 */
 
 .comment{
-  margin-left: 30px;
+  margin-left: 31px;
   margin-right: 30px;
 }
