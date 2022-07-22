@@ -60,6 +60,10 @@ body{
   font-family: 'Changa', sans-serif;
 }
 
+.p2{
+  margin-top:0;
+}
+
 .btn-wrap {
   margin-top: 100px; 
 }
