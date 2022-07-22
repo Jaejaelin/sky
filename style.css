@@ -54,7 +54,7 @@ body{
 
 .content p{
   font-size: 1.5rem;
-  margin-top: -5px;
+  margin: 0;
   color: #F6F6F6;
   display: block;
   font-family: 'Changa', sans-serif;
@@ -63,7 +63,7 @@ body{
 
 
 .btn-wrap {
-  margin-top: 120px; 
+  margin-top: 115px; 
 }
 
 /*
